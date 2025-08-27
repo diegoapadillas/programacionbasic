@@ -1,2 +1,2 @@
 # programacionbasic
-reprogramando la matrix.
+Reprogammacion matrix.
